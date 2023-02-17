@@ -1,7 +1,7 @@
 # Suivi-de-projets-tutor-s
 Application Web permettons de faciliter le suivi des projets tutorés 
 
-Voici un prototype de votre projet de suivi des projets tutorés :
+Voici un prototype de notre projet de suivi des projets tutorés :
   1. Page d'accueil :
         - La page d'accueil permettra aux étudiants et aux enseignants de se connecter à leurs comptes respectifs.
   2. Tableau de bord de l'étudiant :
